@@ -1,5 +1,5 @@
 # probable-octo-happiness
 
-Very very WIP conlang. 
+a *work in progress* constructed language
 
-###### "probable-octo-happiness" is a name that GitHub suggested to me
+###### „probable-octo-happiness“ is a GitHub-picked name
